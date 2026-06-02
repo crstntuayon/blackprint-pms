@@ -1,0 +1,26 @@
+{
+  "short": {
+    "bwSingle": 4,
+    "bwDouble": 3,
+    "colorSingle": 7,
+    "colorDouble": 7,
+    "photoSingle": 15,
+    "photoDouble": 35
+  },
+  "long": {
+    "bwSingle": 6,
+    "bwDouble": 5,
+    "colorSingle": 9,
+    "colorDouble": 9,
+    "photoSingle": 20,
+    "photoDouble": 45
+  },
+  "a4": {
+    "bwSingle": 4,
+    "bwDouble": 3,
+    "colorSingle": 7,
+    "colorDouble": 7,
+    "photoSingle": 15,
+    "photoDouble": 35
+  }
+}
